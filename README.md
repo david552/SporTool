@@ -1,3 +1,5 @@
+(Built in 24 hours at Hacktoberfest Tbilisi — ranked in the Top 20 out of 108 teams. ✅)
+
 --Overview--
 This project is a video processing and tracking tool for tennis or padel matches. It detects players, tracks the ball, estimates rallies, and generates processed videos with statistics.
 
